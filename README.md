@@ -4,7 +4,7 @@ Projeto desenvolvido como desafio do Frontend Mentor, com o objetivo de reproduz
 
 📸 Preview
 
-
+![Preview do projeto](./assets/images/social-print.png)
 
 
 🔗 Links
