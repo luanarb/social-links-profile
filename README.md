@@ -11,12 +11,12 @@ Projeto desenvolvido como desafio do Frontend Mentor, com o objetivo de reproduz
 https://social-links-profile-phi-teal.vercel.app/
 
 🛠️ Tecnologias utilizadas
-HTML5
-CSS3
-Flexbox
-Variáveis CSS
-Design responsivo
-Google Fonts — Inter
+- HTML5
+- CSS3
+- Flexbox
+- Variáveis CSS
+- Design responsivo
+- Google Fonts — Inter
 
 💻 O que pratiquei
 
